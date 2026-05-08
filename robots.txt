@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://neth1122.github.io/handbook-8rpi4p/sitemap.xml
